@@ -33,6 +33,7 @@ class Login : AppCompatActivity() {
         }
 
     }
+    //asdklasndilalifdjw
     private fun register(){
         val intent= Intent(this@Login,Register::class.java)
         startActivity(intent)
